@@ -21,6 +21,7 @@ gem 'uglifier', '>= 1.3.0'
 
 # ## -- OTHER GEMS -- ##
 gem 'annotate'
+gem 'pager_api'
 gem 'will_paginate', '~> 3.1.0'
 
 group :development, :test do
